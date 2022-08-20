@@ -1,0 +1,15 @@
+C:\Users\yeyeu\source\repos\Calculo de numero factorial\Calculo de numero factorial\bin\Debug\net6.0\Calculo de numero factorial.exe
+C:\Users\yeyeu\source\repos\Calculo de numero factorial\Calculo de numero factorial\bin\Debug\net6.0\Calculo de numero factorial.deps.json
+C:\Users\yeyeu\source\repos\Calculo de numero factorial\Calculo de numero factorial\bin\Debug\net6.0\Calculo de numero factorial.runtimeconfig.json
+C:\Users\yeyeu\source\repos\Calculo de numero factorial\Calculo de numero factorial\bin\Debug\net6.0\Calculo de numero factorial.dll
+C:\Users\yeyeu\source\repos\Calculo de numero factorial\Calculo de numero factorial\bin\Debug\net6.0\Calculo de numero factorial.pdb
+C:\Users\yeyeu\source\repos\Calculo de numero factorial\Calculo de numero factorial\obj\Debug\net6.0\Calculo de numero factorial.vbproj.AssemblyReference.cache
+C:\Users\yeyeu\source\repos\Calculo de numero factorial\Calculo de numero factorial\obj\Debug\net6.0\Calculo de numero factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeyeu\source\repos\Calculo de numero factorial\Calculo de numero factorial\obj\Debug\net6.0\Calculo de numero factorial.AssemblyInfoInputs.cache
+C:\Users\yeyeu\source\repos\Calculo de numero factorial\Calculo de numero factorial\obj\Debug\net6.0\Calculo de numero factorial.AssemblyInfo.vb
+C:\Users\yeyeu\source\repos\Calculo de numero factorial\Calculo de numero factorial\obj\Debug\net6.0\Calculo de numero factorial.vbproj.CoreCompileInputs.cache
+C:\Users\yeyeu\source\repos\Calculo de numero factorial\Calculo de numero factorial\obj\Debug\net6.0\Calculo de numero factorial.dll
+C:\Users\yeyeu\source\repos\Calculo de numero factorial\Calculo de numero factorial\obj\Debug\net6.0\refint\Calculo de numero factorial.dll
+C:\Users\yeyeu\source\repos\Calculo de numero factorial\Calculo de numero factorial\obj\Debug\net6.0\Calculo de numero factorial.pdb
+C:\Users\yeyeu\source\repos\Calculo de numero factorial\Calculo de numero factorial\obj\Debug\net6.0\Calculo de numero factorial.genruntimeconfig.cache
+C:\Users\yeyeu\source\repos\Calculo de numero factorial\Calculo de numero factorial\obj\Debug\net6.0\ref\Calculo de numero factorial.dll
